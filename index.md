@@ -1,26 +1,26 @@
-## HUGO MARÍN RODRÍGUEZ
+# HUGO MARÍN RODRÍGUEZ
 
-### ![image](https://user-images.githubusercontent.com/116158261/197496199-017c8111-a067-44ee-95c1-ae41224b013a.png)
+![image](https://user-images.githubusercontent.com/116158261/197500907-406a148c-6c2a-4062-96db-d835d442c9cd.png)
 
 CICLO FORMATIVO IFP | VÍNCULO A OTRAS PROPIEDADES EN
 LÍNEA: CARTERA, SITIO WEB O BLOG
 
 
 
-# IDIOMAS
+## IDIOMAS
 
 Español
 Inglés
 
 
 
-# APTITUDES
+## APTITUDES
 
 Trabajo en equipo, aptitud paciente, discreto y confidente, puntualidad para ir al trabajo, capacidad de organización.
 
 
 
-# DATOS PERSONALES
+## DATOS PERSONALES
 
 22 de Agosto de 2005 Pontevedra.
 
@@ -29,7 +29,7 @@ Sitges, Barcelona
 
 
 
-# FORMACIÓN
+## FORMACIÓN
 
 2022 / 2023 · SGUNCO CURSO DE IFP, GRUPO PLANETA:
 ESTOY ESTUDIANDO ESTE AÑO:
@@ -48,7 +48,7 @@ ISB (International School of Barcelona) ESCAAN
 
 
 
-# EXPERIENCIA
+## EXPERIENCIA
 
 Mantenimiento de aparatos de Bitcoins.
 En septiembre empezaré el segundo año de SMX y sigo formándome en matemáticas a través del sistema Kumon. Deseo compaginar el año 2022-2023 con prácticas en empresas del sector.
@@ -57,7 +57,7 @@ En septiembre empezaré el segundo año de SMX y sigo formándome en matemática
 
 ![image](https://user-images.githubusercontent.com/116158261/197499399-2711c132-940a-450a-94e6-da2d214f83d4.png)        ![image](https://user-images.githubusercontent.com/116158261/197499524-94426b30-2678-4321-8c04-92328c669588.png)
 
-hugo.marin2005@yahoo.com        +34 699 31 81 88
+perezmarin911@yahoo.com        +34 667 81 81 22
 
 
 
