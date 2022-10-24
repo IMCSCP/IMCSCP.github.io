@@ -1,5 +1,6 @@
 HUGO MARÍN RODRÍGUEZ
-![image](https://user-images.githubusercontent.com/116158261/197496199-017c8111-a067-44ee-95c1-ae41224b013a.png)
+
+###![image](https://user-images.githubusercontent.com/116158261/197496199-017c8111-a067-44ee-95c1-ae41224b013a.png)
 
 CICLO FORMATIVO IFP | VÍNCULO A OTRAS PROPIEDADES EN
 LÍNEA: CARTERA, SITIO WEB O BLOG
