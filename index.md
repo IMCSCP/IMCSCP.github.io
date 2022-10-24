@@ -1,2 +1,3 @@
-Hola soy Hugo Marín
-Estoy estudiando en el centro iFP Hospitalet
+HUGO MARÍN RODRÍGUEZ
+CICLO FORMATIVO IFP | VÍNCULO A OTRAS PROPIEDADES EN
+LÍNEA: CARTERA, SITIO WEB O BLOG
