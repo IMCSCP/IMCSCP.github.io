@@ -49,9 +49,14 @@ En septiembre empezaré el segundo año de SMX y sigo formándome en matemática
 
 
 
-|![image](https://user-images.githubusercontent.com/116158261/197499399-2711c132-940a-450a-94e6-da2d214f83d4.png)|  |![image](https://user-images.githubusercontent.com/116158261/197499524-94426b30-2678-4321-8c04-92328c669588.png)|
+![image](https://user-images.githubusercontent.com/116158261/197499399-2711c132-940a-450a-94e6-da2d214f83d4.png) 
 
-perezmarin911@yahoo.com +34 667 81 81 22
+perezmarin911@yahoo.com
+
+
+![image](https://user-images.githubusercontent.com/116158261/197499524-94426b30-2678-4321-8c04-92328c669588.png)
+ 
++34 667 81 81 22
 
 
 
