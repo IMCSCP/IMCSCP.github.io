@@ -20,23 +20,17 @@ Trabajo en equipo, aptitud paciente, discreto y confidente, puntualidad para ir 
 
 
 
-## DATOS PERSONALES
-
-22 de Agosto de 2005 Pontevedra.
-
-RESIDENCIA
-Sitges, Barcelona
-
-
-
 ## FORMACIÓN
 
 2022 / 2023 · SGUNCO CURSO DE IFP, GRUPO PLANETA:
 ESTOY ESTUDIANDO ESTE AÑO:
 
 •	Seguridad
+
 •	Aplicaciones de web
+
 •	Sistemas operativos de redes
+
 •	Síntesis 
 
 
@@ -55,9 +49,9 @@ En septiembre empezaré el segundo año de SMX y sigo formándome en matemática
 
 
 
-![image](https://user-images.githubusercontent.com/116158261/197499399-2711c132-940a-450a-94e6-da2d214f83d4.png)        ![image](https://user-images.githubusercontent.com/116158261/197499524-94426b30-2678-4321-8c04-92328c669588.png)
+|![image](https://user-images.githubusercontent.com/116158261/197499399-2711c132-940a-450a-94e6-da2d214f83d4.png)|![image](https://user-images.githubusercontent.com/116158261/197499524-94426b30-2678-4321-8c04-92328c669588.png)
 
-perezmarin911@yahoo.com        +34 667 81 81 22
+|perezmarin911@yahoo.com|+34 667 81 81 22
 
 
 
